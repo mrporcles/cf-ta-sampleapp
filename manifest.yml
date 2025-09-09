@@ -6,4 +6,4 @@ applications:
   instances: 1
   random-route: true
   buildpacks:
-  - staticfile_buildpac
+  - staticfile_buildpack
